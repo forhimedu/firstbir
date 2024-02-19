@@ -7,15 +7,15 @@
   .pictures, .words {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 5px;
   }
   
   .card {
-    width: 100px;
-    height: 100px;
+    width: 75px;
+    height: 75px;
     border: 1px solid black;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     cursor: pointer;
   }
   
